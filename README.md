@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mary Chinweoge
+- 👀 I’m a Freelance Data Analyst
+- 💞️ I’m open to collaborate on data analysis project
